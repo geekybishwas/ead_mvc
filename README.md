@@ -4,7 +4,7 @@ A modern todo application built with Next.js using the MVC (Model-View-Controlle
 
 ## 🚀 Live Demo
 
-[Visit the live app](https://your-app-name.vercel.app)
+[Visit the live app](https://ead-mvc-niyf.vercel.app/)
 
 ## 🛠️ Tech Stack
 
